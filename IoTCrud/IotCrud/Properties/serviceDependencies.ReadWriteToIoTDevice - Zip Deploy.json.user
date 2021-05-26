@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-05-15T18:17:12.6018368Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-05-15T18:17:26.8608902Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "IoTCrud"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8d46b349-4fe1-4dc6-b4c4-a0386e18dc9d"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "8d46b349-4fe1-4dc6-b4c4-a0386e18dc9d"
+    },
+    "ReadWriteToIoTDevice.resourceGroupLocation": {
+      "Name": "ReadWriteToIoTDevice.resourceGroupLocation",
+      "Type": null,
+      "Value": "westeurope"
+    },
+    "ReadWriteToIoTDevice.resourceName": {
+      "Name": "ReadWriteToIoTDevice.resourceName",
+      "Type": null,
+      "Value": "ReadWriteToIoTDevice"
+    },
+    "appInsights1.resourceGroupLocation": {
+      "Name": "appInsights1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "westeurope"
+    },
+    "ReadWriteToIoTDevice.subscriptionId": {
+      "Name": "ReadWriteToIoTDevice.subscriptionId",
+      "Type": "subscription",
+      "Value": "8d46b349-4fe1-4dc6-b4c4-a0386e18dc9d"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "IoTCrud"
+    },
+    "ReadWriteToIoTDevice.resourceGroupName": {
+      "Name": "ReadWriteToIoTDevice.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "IoTCrud"
+    }
+  }
+}
